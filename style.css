@@ -1,7 +1,17 @@
-p, h1, ul,li{
+p, h1, ul,li {
   color: white;
 }
-
-body{
+#top {
+	font-weight: bold;
+	font-style: italic;
+}
+#classLink {
+	text-decoration: underline;
+}
+body {
   background-color: black;
+}
+
+a:link, a:visited {
+  color: white;
 }
